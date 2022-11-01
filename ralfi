@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MILFS FOR SALE</title>
+</head>
+<body>
+    <nav>
+        <button type="button" name="home">
+            HOME
+        </button>
+        <button type="button" name="aboutUs">
+            ABOUT US
+        </button>
+        <button type="button" name="products">
+            PRODUCTS
+        </button>
+        <input type="search" name="SEARCH" id="searchNav">
+        <button type="submit">Search</button>
+    </nav>
+    <main>
+        <div>
+            <h1>MAMI SINGLE NE TIRANE</h1>
+            <img src="img/tirana.png" alt="map of tirana">
+        </div>
+<div>
+<form action="" method"get">
+<label for="userName">Username</label>
+    <input type="text" name="userName" id="username" placeholder="Vendos emrin jo-real ketu" required >
+<label for="passwprd">Password</label>
+<input type="password" name="password" id="password" placeholder="Vendos passowdin" minlength="8" required> 
+<label for="sex">Gjinia</label>
+<input type="radio" name="sex" value="mashkull">M
+<input type="radio" name="sex" value="femer">F
+<button>Submit</button>
+</form>
+</div>
+<div>
+<table>
+    <thead>
+        <td>Statusi/Zona</td>
+        <td>Pazari i Ri</td>
+        <td>Selvia</td>
+        <td>Bulevardi "Zogu i 1" </td>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mami online</td>
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>Mami te zena</td>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Mami offline</td>
+            <td>10</td>
+            <td>11</td>
+            <td>12</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+    </main>
+
+    <footer>
+<div id="ePara"></div>
+<div id="eDyta"></div>
+<div id="eTreta"></div>
+<div id="eKaterta"></div>
+    </footer>
+</body>
+</html>
